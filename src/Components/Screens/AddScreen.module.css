@@ -1,0 +1,35 @@
+.container {
+  width: 100%;
+}
+
+.form_style {
+  margin-top: 20px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form_style div {
+  width: 150px;
+}
+
+.quantity {
+  margin-top: 20px;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.toast {
+  margin-top: 20px;
+  width: 75%;
+}
+.toast_container {
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
